@@ -1,19 +1,3 @@
-﻿/*
-Create a 2D canvas
-Be able to create: rectangle, circle, ellipse, line, polygon, poly-line & path
-
-Shapes stack on the Z axis
-
-Add, delete and update shapes
-Border line type and width
-Shape fill color
-*/
-/*
-    HI DEMONSTRATOR
-    Using VSCode
-    .Net version 6 -> the lack of defining main methods scares me so im still making one
-    Using Windows
-*/
 /*
 A lot of my code doesn't have any comments, this is due to me working on one shape, and then copy and pasting for the rest of shapes, apart from minor adjustments
 */
@@ -30,8 +14,6 @@ namespace Assignment2
         {
             //my list of commands
             //explaining to the user how to use my code
-            //i know i could do this all in one line but this makes it easier for me to read and spot mistakes
-            //ill be using one liners later but for my menu i wanted to be able to see it all
             Console.WriteLine("\nWelcome to Lauren's Shape Generator!\n");
             Console.WriteLine("The menu is designed to walk you through the process step by step \nJust follow the instructions on screen and you'll be good to go!");
             Console.WriteLine("\nPlease enter a shape to start! \n 'Rect' -> Rectangle \n 'Circ' -> Circle \n 'Elli' -> Ellipse \n 'Line' -> Line \n 'PolyL' -> Polyline \n 'PolyG' -> Polygon \n 'Path' -> Path");
