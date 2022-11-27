@@ -1,5 +1,5 @@
 /*
-Assignemnt 01 -> 73%
+Assignemnt 01 -> 73% / 100%
 */
 
 using System;
