@@ -1,7 +1,0 @@
-@startuml
-class Memento {
-    + getShape() : Shape
-    + setShape(s:Shape) : void
-}
-Memento --> "shape" Shape
-@enduml

@@ -1,7 +1,0 @@
-<svg width="1000" height="1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <rect x="100" y="100" width="200" height="200" fill="pink" stroke="black" stroke-width="1"/>
-    <circle cx="100" cy="200" r="200" fill="pink" stroke="black" stroke-width="1"/>
-    <ellipse cx="100" cy="110" rx="200" ry="250" fill="pink" stroke="black" stroke-width="1"/>
-    <circle cx="100" cy="200" r="200" fill="pink" stroke="black" stroke-width="1"/>
-    <rect x="100" y="100" width="200" height="200" fill="pink" stroke="black" stroke-width="1"/>
-</svg>
