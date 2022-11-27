@@ -1,4 +1,6 @@
-You	are	required	to	re-design	and	re-develop	the	console	application	that	you	developed	in	Assignment	03.	The	existing	user	interface	should	be	retained,	i.e.	providing	simple	keyboard	functionality	to:
+Using Command Design Pattern
+
+You	are	required	to	re-design	and	re-develop	the	console	application	that	you	developed	in	Assignment	03.	The	existing	user	interface	should	be	retained,	i.e. providing	simple	keyboard	functionality	to:
 
 (i)	generate	different	random	shapes	that	are	added	to	the	canvas,	
 
