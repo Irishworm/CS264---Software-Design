@@ -1,4 +1,8 @@
 /*
+Assignemnt 02 -> 96% / 100%
+*/
+
+/*
 A lot of my code doesn't have any comments, this is due to me working on one shape, and then copy and pasting for the rest of shapes, apart from minor adjustments
 */
 using System;
